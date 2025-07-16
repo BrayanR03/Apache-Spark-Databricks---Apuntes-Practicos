@@ -16,14 +16,11 @@
 
 ---
 
-### 🧠 Próximamente... DataFrames en Spark
+### 🔹2. DataFrames en Spark
 
 - Introducción a `SparkSession`
-- Creación de DataFrames desde RDDs, CSV y estructuras manuales
+- Creación de DataFrames desde estructuras manuales
 - Transformaciones comunes (`select`, `filter`, `withColumn`, `groupBy`)
-- Evaluación diferida
-- Comparativa con RDDs
-- Uso del optimizador Catalyst y motor Tungsten
 
 ---
 
