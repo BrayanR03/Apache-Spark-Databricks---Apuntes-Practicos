@@ -1,36 +1,23 @@
-
+# Fundamentos de Spark mediante Databricks 🧱🐍📊
 ---
 
 ## 📦 Contenidos
 
-### 🔹 1. RDDs – Resilient Distributed Datasets
+🔹 1. RDDs – Resilient Distributed Datasets
 
-- Creación de RDDs con `parallelize()`
-- Transformaciones (`map`, `filter`, `flatMap`, `distinct`)
-- Acciones (`collect`, `count`, `take`, `reduce`)
-- Ejercicios RDDs
+🔹 2. Ejercicios - RDDs 
 
-> 📌 **Nota importante**:  
-> En **Databricks Free Edition**, no es posible crear RDDs mediante `sparkContext.parallelize()` debido no se expone directamente el contexto `sc`.  
-> Por ello, todos estos ejercicios (RDDs) han sido desarrollados en **Databricks Community Edition**.
+🔹 3. DataFrames en Spark
 
----
+🔹 4. Operaciones en DataFrames con Spark SQL
 
-### 🔹2. DataFrames en Spark
+🔹 5. Rango Interquartil en Spark
 
-- Introducción a `SparkSession`
-- Creación de DataFrames desde estructuras manuales
-- Transformaciones comunes (`select`, `filter`, `withColumn`, `groupBy`)
+🔹 6. Unity Catalog en Databricks
 
----
+🔹 7. Manipulación de Datos en DataFrames mediante Spark SQL
 
-### 🧠 Próximamente... Spark SQL
-
-- Uso de `spark.sql()` y creación de vistas temporales
-- Consultas SQL sobre DataFrames
-- Funciones comunes (`count`, `when`, `col`, `avg`, `alias`)
-- Filtrado, ordenamiento y joins
-- Funciones integradas y expresiones condicionales
+🔹 8. Talleres de Ingeniería de Datos (🏗️🏗️ En construccción)
 
 ---
 
@@ -38,7 +25,7 @@
 
 - Cuenta en [Databricks Community Edition](https://community.cloud.databricks.com) || 
   [Databricks Free Edition](https://dbc-89f542f8-2df6.cloud.databricks.com/?o=758509963140561)
-- Familiaridad básica con Python y SQL
+- Familiaridad básica con Python (Polars - Pandas) y SQL
 - Conocimientos previos de procesamiento de datos (recomendado)
 
 ---
