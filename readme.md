@@ -17,7 +17,7 @@
 
 🔹 7. Manipulación de Datos en DataFrames mediante Spark SQL
 
-🔹 8. Talleres de Ingeniería de Datos (🏗️🏗️ En construccción)
+🔹 8. Talleres de Ingeniería de Datos (🏗️Cada día subiendo un nuevo nivel 📊)
 
 ---
 
