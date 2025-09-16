@@ -19,6 +19,7 @@ Todo el contenido está acompañado de ejemplos prácticos y soluciones, disponi
 Este taller se desarrolla de manera **progresiva y diaria**.  
 Aquí queda registrada cada actualización:  
 
+- 📅 **16/09/2025** → 🚀 Inicio del Taller. Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*. Nivel Básico desarrollado✅ 
 - 📅 **15/09/2025** →  ✅ Nivel Avanzado desarrollado . Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. 
 - 📅 **13/09/2025** →  ✅ Nivel Intermedio desarrollado . Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. 
 - 📅 **12/09/2025** → 🚀 Inicio del Taller. Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. Nivel Básico desarrollado✅  
@@ -29,7 +30,9 @@ Aquí queda registrada cada actualización:
 
 ## 📂 Contenido del Repositorio  
 
-- 📝 `talleres_pyspark/` → Taller sobre el cuál se trabajan estas casuísticas/ejercicios sobre PySpark.  
+- 📝 `talleres_pyspark_databricks` → Taller sobre el cuál se trabajan estas casuísticas/ejercicios sobre PySpark.  
+
+- 📝 `readme_talleres_pyspark` → Bitácora de desarrollo sobre el Taller de Ingeniería de Datos en PySpark.  
 
 ---
 
