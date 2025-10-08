@@ -19,10 +19,11 @@ Todo el contenido está acompañado de ejemplos prácticos y soluciones, disponi
 Este taller se desarrolla de manera **progresiva y diaria**.  
 Aquí queda registrada cada actualización:  
 
+- 📅 **08/10/2025** → ✅ Nivel Intermedio desarrollado.. Tema: *AGREGACIONES Y AGRUPACIONES*.
 - 📅 **02/10/2025** → 🚀 Inicio del Taller. Tema: *AGREGACIONES Y AGRUPACIONES*. Nivel Básico desarrollado✅ 
 
 - 📅 **27/09/2025** → ✅ Nivel Avanzado desarrollado. Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*.
-- 📅 **23/09/2025** → ✅ Nivel Intermedio desarrollado.. Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*. Nivel Básico desarrollado✅ 
+- 📅 **23/09/2025** → ✅ Nivel Intermedio desarrollado.. Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*. 
 - 📅 **16/09/2025** → 🚀 Inicio del Taller. Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*. Nivel Básico desarrollado✅ 
 
 - 📅 **15/09/2025** →  ✅ Nivel Avanzado desarrollado. Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. 
