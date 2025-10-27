@@ -20,6 +20,7 @@ Este taller se desarrolla de manera **progresiva y diaria**.
 Aquí queda registrada cada actualización:  
 
 
+- 📅 **27/10/2025** → ✅ Nivel Intermedio desarrollado. Tema: *WINDOW FUNCTIONS*. ✅ 
 - 📅 **21/10/2025** → 🚀 Inicio del Taller. Tema: *WINDOW FUNCTIONS*. Nivel Básico desarrollado✅ 
 
 - 📅 **14/10/2025** → ✅ Nivel Avanzado desarrollado.. Tema: *AGREGACIONES Y AGRUPACIONES*.
